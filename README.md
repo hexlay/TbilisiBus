@@ -1,5 +1,5 @@
 # TbilisiBus
-iOS version of TbilisiBus project by Nick Shvelidze
+iOS version of TbilisiBus. Original idea by Nick Shvelidze
 
 # Changelog
 - Initial commit
